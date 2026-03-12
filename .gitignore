@@ -1,0 +1,15 @@
+# VirtualBox files
+*.vmdk
+*.vdi
+*.vbox
+*.vbox-prev
+
+# Linux/System files
+.DS_Store
+.history
+.bash_history
+.zsh_history
+
+# Python/Script temporary files
+__pycache__/
+*.py[cod]
